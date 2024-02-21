@@ -1,0 +1,5 @@
+![panatalla_1](https://github.com/Rene305/CRUD_KT_RETROFIT/assets/132528856/3c51c701-63ac-4b37-aabe-8f9a2d6dadfa)
+![Pantalla_2](https://github.com/Rene305/CRUD_KT_RETROFIT/assets/132528856/8ad0668b-2132-443c-8209-c855ad22b153)
+![Pantalla_3](https://github.com/Rene305/CRUD_KT_RETROFIT/assets/132528856/a35997af-2e04-4eca-a3d6-1c18daf50120)
+![Pantalla_4](https://github.com/Rene305/CRUD_KT_RETROFIT/assets/132528856/79ce1bc6-a370-4538-9116-c814d5ac8b8e)
+![Pantalla_5](https://github.com/Rene305/CRUD_KT_RETROFIT/assets/132528856/e1fe5e34-ffc3-4053-88d9-957fbc5ca760)
